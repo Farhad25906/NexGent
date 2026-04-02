@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/readme-hero-banner.png" width="100%" alt="Nexgent Hero Banner" />
+ 
   
   # Nexgent
   
@@ -9,10 +9,7 @@
 
   <br />
 
-  [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-  [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12-ff0055?style=for-the-badge&logo=framer)](https://www.framer.com/motion/)
-  [![Lucide React](https://img.shields.io/badge/Lucide_React-1.7-blue?style=for-the-badge&logo=lucide)](https://lucide.dev/)
+ 
 
   ---
 
