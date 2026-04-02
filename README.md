@@ -4,7 +4,11 @@
   # Nexgent
   
   **A Premium, Smart Task Management Platform**
-  
+
+  [**View Live Demo**](https://nex-gent.vercel.app/) • [**Report Bug**](https://github.com/farhad25906/NexGent/issues) • [**Request Feature**](https://github.com/farhad25906/NexGent/issues)
+
+  <br />
+
   [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
   [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12-ff0055?style=for-the-badge&logo=framer)](https://www.framer.com/motion/)
@@ -18,11 +22,11 @@
 
 ## 🚀 Key Features
 
-- **🎯 Precision Planning** — Advanced task assignment and deadline tracking.
-- **✨ Fluid Animations** — Powered by Framer Motion for a premium user experience.
-- **📱 True Responsiveness** — Optimized for Mobile, Tablet, and Desktop viewports.
-- **⚡ Performance First** — Built with Next.js 15 and Tailwind CSS 4.0.
-- **🔒 Data Integrity** — Clean separation of concerns with dedicated data structures.
+- **🎯 Precision Planning** — Advanced task assignment and deadline tracking with real-time updates.
+- **✨ Fluid Animations** — Powered by Framer Motion for a smooth, high-end feel in every interaction.
+- **📱 Universal Reach** — Pixel-perfect responsiveness across mobile, tablet, and ultra-wide desktops.
+- **⚡ Next-Gen Performance** — Optimized for speed using Next.js 15 and Tailwind CSS 4.0.
+- **🔒 Organized Logic** — Clean architecture with a strict separation between UI and data layers.
 
 ---
 
@@ -35,9 +39,9 @@ nexgent/
 │   ├── layout/             # Shared Navigation & Footer
 │   ├── sections/           # High-level Page Sections
 │   └── ui/                 # Animated & Reusable UI Elements
-├── data/                   # Centralized Content & Configurations
-├── lib/                    # Utility Functions & Shared Logic
-└── public/                 # Optimized Assets & Brand Resources
+├── data/                   # Centralized JSON/Data Configurations
+├── lib/                    # Shared Utility Functions
+└── public/                 # High-resolution Assets & SVG Resources
 ```
 
 ---
@@ -74,7 +78,7 @@ Ensure you have **Node.js 18+** installed on your system.
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/farhad25906/NexGent.git
 
 # Navigate to project directory
 cd NexGent
@@ -85,14 +89,22 @@ npm install
 
 ### 3. Development
 ```bash
-# Launch the edge-runtime dev server
+# Launch the local dev server
 npm run dev
 ```
 
-Visit [http://localhost:3000](http://localhost:3000) to see the live application.
+Visit [http://localhost:3000](http://localhost:3000) to see the live application locally.
 
 ---
 
+## 📬 Contact & Support
+
+Whether you have a question about the project, want to collaborate, or just want to say hi, feel free to reach out:
+
+- **Email:** [farhadhossen2590@gmail.com](mailto:farhadhossen2590@gmail.com)
+- **Live Demo:** [Nexgent Web App](https://nex-gent.vercel.app/)
+
 <div align="center">
+  <br />
   <p>© 2026 Nexgent. Designed for the future of work.</p>
 </div>
